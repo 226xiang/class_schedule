@@ -1,0 +1,12 @@
+.gradle/
+.gradle-bin/
+.gradle-tmp/
+.downloads/
+.kotlin/
+.idea/
+local.properties
+build/
+app/build/
+app/schemas/
+*.apk
+*.aab
