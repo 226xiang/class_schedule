@@ -1,6 +1,6 @@
 # 课程表
 
-一个完全本地运行的 Android 课程表 App，使用 Kotlin、Jetpack Compose、Material 3 和 Room 实现。
+一个完全本地运行的 Android 课程表 App，使用 Kotlin、Jetpack Compose、Material 3 和 Room 实现。借助了GPT辅助实现，该项目一种常见的用法是可以通过其他软件比如wakeup的课程表导出功能导出对应课表的isc文件然后导入到该apk中。
 
 ## 已实现
 
